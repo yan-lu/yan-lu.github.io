@@ -1,0 +1,147 @@
+﻿<HTML 
+xmlns="http://www.w3.org/1999/xhtml">
+<HEAD><TITLE>Yan Lu's homepage at Texas A&M University</TITLE>
+<link rel="shortcut icon" href="favicon.ico">
+<META content="text/html; charset=utf-8" http-equiv=Content-Type>
+<META name=description content="Yan Lu's Homepage at TAMU">
+<META name=google-site-verification 
+content=ASlOEQak3nrvei_0rir7wWazvkN4ND-j0cGM3JBuWE0><LINK rel=stylesheet 
+type=text/css 
+href="index_files/context.css">
+<SCRIPT type=text/javascript src="index_files/context.js"></SCRIPT>
+
+<META name=GENERATOR content="MSHTML 8.00.7601.17655"><style type="text/css">
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+</style></HEAD>
+<BODY bgColor=#CCCCCC>
+<SCRIPT type=text/javascript>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</SCRIPT>
+
+<SCRIPT type=text/javascript src="index_files/ga.js"></SCRIPT>
+
+<SCRIPT type=text/javascript>
+var pageTracker = _gat._getTracker("UA-5868720-1");
+pageTracker._trackPageview();
+</SCRIPT>
+
+
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=900  align="center">
+  <TBODY>
+  <TR align="center">
+  <td  colspan="2">
+  <div id="hnav" style="width:900px">
+<ul>
+<li><a href="./index.htm" target="_parent">Home</a></li>
+<li><a href="./news.htm" target="_self">News</a></li>
+<li><a href="./research.htm">Research</a></li>
+<li><a href="./pub.htm">Publications</a></li>
+</ul>
+</div>
+</td>
+</TR>  
+  <TR bgColor=white>
+   <TD align="left" 
+    style="PADDING-BOTTOM: 20px; MARGIN-TOP: 10px; PADDING-LEFT: 50px; PADDING-RIGHT: 10px; PADDING-TOP: 0px; font-family: Georgia, 'Times New Roman', Times, serif;">
+      <p style="height:10px">
+      <!--<h6 class=title>&nbsp;</h6> -->
+      <h2 class=title><span class="subtitle">Yan Lu</span> &nbsp; <A href="docs/cv_full.pdf" target="_new"></A></h2>
+      <Ul style="TEXT-ALIGN: justify; FONT-FAMILY: Verdana; FONT-SIZE: 11pt; margin-right:20px; margin-left:0px" class = interest>
+	  <li style="list-style-type: none; padding-left:0px; font-size:12pt" > Scientist  <a href="http://www.honda-ri.com/HRI_Us"target="_new">Honda Research Institute USA</a> 
+      <li style="list-style-type: none">  Email: sinoluyan [at] gmail.com
+	  <DIV style="HEIGHT: 10px"></DIV> 
+	  <li style="list-style-type: none; padding-left:0px" > Ph.D.  <a href="http://www.tamu.edu"target="_new">Texas A&ampM University</a>, 2015 
+	  <li style="list-style-type: none; padding-left:0px" > MPhil  <a href="http://www.cuhk.edu.hk"target="_new">Chinese University of Hong Kong</a>, 2010
+	  <li style="list-style-type: none; padding-left:0px" > B.S.  <a href="http://www.xjtu.edu.cn"target="_new"> Xi'an Jiaotong University</a>, 2008 </A>
+	  &nbsp;&nbsp;</SPAN></li>
+      
+      </Ul>
+      </td>
+     <TD 
+    colspan="1"
+    align="center"  
+    valign="middle"
+    style="padding:5px"
+    ><a href="pics/YanLu.jpg" target="_new"><img src="pics/YanLu.jpg" width="200" border="0"></a>
+  </TD> 
+    </TR>
+  <TR bgcolor="#FFFFFF">
+  <TD align="left" colspan="2"
+    style="PADDING-BOTTOM: 20px; MARGIN-TOP: 10px; PADDING-LEFT: 30px; PADDING-RIGHT: 10px; PADDING-TOP: 0px; font-family: Georgia, 'Times New Roman', Times, serif;"><DIV style="BACKGROUND-COLOR: #CCCCCC; font-size: 14pt; font-family: Verdana, Geneva, sans-serif;">
+    <DIV class=section> About me </DIV></DIV>
+      <DIV style="HEIGHT: 10px"></DIV>
+      <UL style="TEXT-ALIGN: justify; FONT-FAMILY: sans-serif; FONT-SIZE: 11pt; margin-right:20px" class = interest>
+     <LI style="LIST-STYLE-TYPE: none; padding-left:10px; padding-right:10px">
+	 I'm a research scientist at Honda Research Institute USA, Mountain View, CA. I'm currently working on robotic localization and mapping for autonomous driving. 
+	 I have been focused on vision based SLAM (simultaneous localization and mapping) for over six years. Check my 
+	 <a href="https://scholar.google.com/citations?user=oPix8iwAAAAJ&hl=en" target="_new">Google Scholar profile </a>. 
+	 </LI>
+	 </UL>
+     
+      <HR class=section>
+
+      <A 
+      name=interest></A>
+      <DIV style="BACKGROUND-COLOR: #CCCCCC; font-size: 14pt; font-family: Verdana, Geneva, sans-serif;">
+      <DIV class=section>Research interests</DIV></DIV>
+      <DIV style="HEIGHT: 10px"></DIV>
+      <UL class=interest>
+      <LI  style="padding-left:10px; list-style:none">  Robotics, Automation, Computer Vision, Artificial Intelligence
+      </LI>
+      </UL>
+      <!--<DIV style="HEIGHT: 10px"></DIV>-->
+     
+      <HR class=section>
+
+      <A name=resc></A>
+      <DIV style="BACKGROUND-COLOR: #CCCCCC">
+      <DIV class=section>News</DIV></DIV>
+      <UL class=links>
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2015-07-01: </STRONG> 
+		Two papers on RGBD odometry are accepted to <a href="http://www.iros2015.org/" target="_new">IROS15</a> 
+		and <a href="http://pamitc.org/iccv15/" target="_new">ICCV15</a>, respectively.
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2015-06-04: </STRONG> 
+		I successfully defended my Ph.D. dissertation. 
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2014-08-31: </STRONG> 
+		I just finished my internship with <a href="http://www.honda-ri.com/HRI_Us">Honda Research Institute USA</a>. 
+		Thanks everyone at HRI for this great summer.  
+		
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2014-01-13: </STRONG> 
+		A paper on <a href="Publications/lu_mfg_icra14.pdf" target="_new">high level landmark-based visual navigation</a> is accepted to ICRA 2014.
+		
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2013-06-15: </STRONG> 
+		I am honored to receive the Student Travel Support for CASE 2013 by <a href="http://www.nsf.gov/" target="_new">NSF</a>.
+      
+		<LI style="LIST-STYLE-TYPE: square"><STRONG>2013-05-25: </STRONG> 
+		I have two papers accepted to CASE 2013<a href="http://www.ip2map.com" target="_blank" >.</a> 
+   
+	     </UL>
+      <!--<DIV style="HEIGHT: 0px"></DIV>
+      <DIV class=back><A 
+      href="http://students.cs.tamu.edu/ylu/#top">▲Back</A></DIV>-->
+  <DIV style="font-family:Arial, Helvetica, sans-serif; font-size:16px; padding-left:30px" > <a href="./news.htm">More news</a></DIV>
+           
+    <center>
+    </center>
+     </td>   
+  </TR>
+    <TR  bordercolor="#FFFFFF">
+    <TD colSpan=2 vAlign=top bgcolor="#800000" style="HEIGHT: 25px">    
+	<P class=footer>© Yan Lu | <script language=JavaScript> 
+document.write(" last updated: " + document.lastModified + "") 
+</script>
+</P></TD></TR></TBODY></TABLE>
+<DIV style="HEIGHT: 2px"></DIV>
+</BODY></HTML>

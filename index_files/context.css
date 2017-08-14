@@ -1,0 +1,238 @@
+P.footer {
+	TEXT-ALIGN: center; FONT-STYLE: italic; MARGIN-TOP: 0px; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; MARGIN-BOTTOM: 0px; HEIGHT: 20px; COLOR: #aaaaaa; FONT-SIZE: 14px; BORDER-TOP: #cccccc 1px dashed
+}
+.menu {
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; FONT-SIZE: 10px
+}
+H1.title {
+	MARGIN-TOP: 0px;
+	COLOR: black;
+	FONT-SIZE: 40px;
+	FONT-WEIGHT: bold;
+	PADDING-TOP: 0px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+H1.subtitle {
+	FONT-FAMILY: "Georgia", "Times New Roman", "Times", serif; COLOR: black; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+P.title {
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; COLOR: black; FONT-SIZE: 15px
+}
+.title A {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.title A:link {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.title A:hover {
+	COLOR: #fad163; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+UL.nav {
+	TEXT-ALIGN: left; LINE-HEIGHT: 32px; LIST-STYLE-TYPE: none; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; FONT-SIZE: 16px
+}
+UL.nav LI {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-LEFT: 0px; MARGIN-LEFT: -10px
+}
+UL.nav A {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+UL.nav A:hover {
+	COLOR: black;
+	TEXT-DECORATION: underline;
+	font-family: Verdana, "Lucida Sans Unicode", Geneva, Arial, sans-serif;
+	font-size: 12px;
+}
+.section {
+	PADDING-BOTTOM: 0px;
+	LINE-HEIGHT: 24px;
+	TEXT-INDENT: 20px;
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif;
+	MARGIN-BOTTOM: 0px;
+	HEIGHT: 24px;
+	COLOR: #800000;
+	FONT-SIZE: 18px;
+	FONT-WEIGHT: bold;
+	PADDING-TOP: 6px
+}
+.section A {
+	LIST-STYLE-TYPE: circle; TEXT-DECORATION: none
+}
+.subsection {
+	PADDING-BOTTOM: 6px; MARGIN-TOP: 0px; TEXT-INDENT: 20px; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; MARGIN-LEFT: 20px; FONT-SIZE: 14px; FONT-WEIGHT: normal; PADDING-TOP: 0px
+}
+.subsection A {
+	TEXT-DECORATION: none
+}
+HR.section {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; MARGIN-TOP: 5px; WIDTH: 100%; MARGIN-BOTTOM: 10px; HEIGHT: 1px; COLOR: #cccccc; MARGIN-LEFT: 0px; BORDER-TOP: #ccc 1px dashed; BORDER-RIGHT: 0px
+}
+.back {
+	TEXT-ALIGN: right; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; COLOR: #aaaaaa; FONT-SIZE: 14px; FONT-WEIGHT: normal; MARGIN-RIGHT: 20px
+}
+.back A {
+	COLOR: #aaaaaa; TEXT-DECORATION: none
+}
+.back A:hover {
+	TEXT-DECORATION: underline
+}
+UL.interest {
+	TEXT-ALIGN: left; 
+	PADDING-BOTTOM: 0px; 
+	LINE-HEIGHT: 150%; 
+	LIST-STYLE-TYPE: circle; 
+	MARGIN: 0px; PADDING-LEFT: 10px; 
+	PADDING-RIGHT: 0px; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; COLOR: black; FONT-SIZE: 15px; PADDING-TOP: 0px
+}
+UL.paper {
+	PADDING-BOTTOM: 0px;
+	/*LINE-HEIGHT: 2.3ex;*/
+	line-height: 120%;
+	LIST-STYLE-TYPE: square;
+	PADDING-LEFT: 10px;
+	/*WIDTH: 800px;*/
+	PADDING-RIGHT: 0px;
+	FONT-FAMILY: "Helvetica", "Arial", "Tahoma", "Geneva", sans-serif;
+	COLOR: #000000;
+	FONT-SIZE: 15px;
+	PADDING-TOP: 0px;
+	margin-right:20px;
+}
+UL.paper LI {
+	/*HEIGHT: 100px;*/
+	margin-top:10px;
+}
+UL.paper IMG {
+	WIDTH: 200px; DISPLAY: block; FLOAT: left; HEIGHT: 150px; MARGIN-LEFT: 10px; MARGIN-RIGHT: 30px
+}
+UL.paper P.name {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 15px; FONT-SIZE: 18px; FONT-WEIGHT: normal
+}
+UL.paper P.link {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 5px; FONT-SIZE: 15px; FONT-WEIGHT: normal
+}
+UL.paper A {
+	COLOR: blue; FONT-SIZE: 15px; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+P.course {
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; 
+	COLOR: black; 
+	FONT-SIZE: 14px;
+	FONT-WEIGHT: normal;	 
+}
+UL.course{
+	line-height:120%;
+}
+
+.course A:link {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.course A:visited {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.course A:active {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+.course A:hover {
+	COLOR: #fad163; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+UL.links {
+	LINE-HEIGHT: 120%; 
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; 
+	COLOR: black; 
+	FONT-SIZE: 15px; 
+	MARGIN-RIGHT: 20px
+}
+UL.links LI {
+	MARGIN-TOP: 10px
+}
+UL.links A {
+	COLOR: #00F;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+UL.links A:hover {
+	COLOR: black; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+P.other_content {
+	LINE-HEIGHT: 150%; FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif; COLOR: black; FONT-SIZE: 14px
+}
+P.other_content A {
+	FONT-STYLE: italic; COLOR: #e0ffff; TEXT-DECORATION: underline
+}
+.outerlink {
+	PADDING-BOTTOM: 0px;
+	LINE-HEIGHT: 24px;
+	LIST-STYLE-TYPE: square;
+	TEXT-INDENT: 20px;
+	FONT-FAMILY: "Verdana", "Lucida Sans Unicode", "Geneva", "Arial", sans-serif;
+	MARGIN-BOTTOM: 0px;
+	HEIGHT: 24px;
+	COLOR: #800000;
+	FONT-SIZE: 18px;
+	FONT-WEIGHT: bold;
+	PADDING-TOP: 6px
+}
+H2.other_content {
+	FONT-FAMILY: "Lucida Sans Unicode", "Lucida Grande", "Arial", sans-serif; COLOR: black; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.footer {
+	color: #990000;
+}
+
+#hnav {
+	height: 30px;
+	width: 100%;
+	/*background-color: #800000;*/
+background-color:#800000
+}
+#hnav ul {
+margin: 0 0 0 30px;
+padding: 0px;
+font-size: 18px;
+color: #FFF;
+line-height: 30px;
+white-space: nowrap;
+}
+#hnav li {
+list-style-type: none;
+display: inline;
+}
+#hnav li a {
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+padding: 7px 10px;
+color: #FFF;
+}
+#hnav li a:hover {
+	color: #888;
+	background-color: #FFF;
+}
+OL.paper {
+	PADDING-BOTTOM: 0px;
+	/*LINE-HEIGHT: 2.3ex;*/
+	line-height: 120%;
+	PADDING-LEFT: 10px;
+	/*WIDTH: 800px;*/
+	PADDING-RIGHT: 0px;
+	FONT-FAMILY: "Helvetica", "Arial", "Tahoma", "Geneva", sans-serif;
+	COLOR: #000000;
+	FONT-SIZE: 15px;
+	PADDING-TOP: 0px;
+	margin-right:20px;
+}
+OL.paper LI {
+	/*HEIGHT: 100px;*/
+	margin-top:10px;
+}
+OL.paper IMG {
+	WIDTH: 200px; DISPLAY: block; FLOAT: left; HEIGHT: 150px; MARGIN-LEFT: 10px; MARGIN-RIGHT: 30px
+}
+OL.paper P.name {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 15px; FONT-SIZE: 18px; FONT-WEIGHT: normal
+}
+OL.paper P.link {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 5px; FONT-SIZE: 15px; FONT-WEIGHT: normal
+}
+OL.paper A {
+	COLOR: blue; FONT-SIZE: 15px; FONT-WEIGHT: normal; 
+}
